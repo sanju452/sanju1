@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+header {
+  height: 80px;
+  width: 100%;
+  background-color: #AC8DAF;
+}
+
+.logo {
+  width: 124px;
+  height: 70px;
+  margin-top: 0px;
+}
+
+.header-left {
+  float: left;
+}
+
+.header-right {
+  float: right;
+
+}
+
+.header-right ul li
+{
+  line-height:70px;
+ float:right;
+  color: white;
+  margin-left: 30px;
+  display: block;
+  
+ 
+}
